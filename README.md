@@ -10,7 +10,8 @@ jkjkiiiii 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.kuzetga.cn/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.kuzetga.cn/my-github-repos)
+* [世界，你好！](https://www.kuzetga.cn/hello-solo)
 
 
 
